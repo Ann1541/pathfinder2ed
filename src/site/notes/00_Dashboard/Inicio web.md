@@ -4,4 +4,7 @@
 
 
 
-hola
+hola, esta es una idea muy inicial para tener las cositas sistematizadas.
+espero nos sirva!
+
+
