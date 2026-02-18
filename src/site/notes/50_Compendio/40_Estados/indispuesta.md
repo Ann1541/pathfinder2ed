@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/50-compendio/40-estados/indispuesta/"}
 ---
 
-Sufre de [[[Indispuesto\|[Indispuesto]]
+Sufre de [[50_Compendio/40_Estados/Indispuesto\|Indispuesto]]
 
 ---
 
