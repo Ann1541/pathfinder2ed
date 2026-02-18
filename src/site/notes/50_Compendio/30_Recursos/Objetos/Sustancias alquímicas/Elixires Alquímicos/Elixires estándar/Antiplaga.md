@@ -13,7 +13,7 @@
 **Activar** `pf2:1` [[Interactuar\|Interactuar]]
 
 >[!recite]+ Informacion.
->Un [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antiplaga\|antiplaga]] puede fortificar las defensas del cuerpo ==contra las [[Enfermedad\|enfermedades]].== Al beber un [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antiplaga\|antiplaga]], obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las [[Tirada de salvación\|tiradas de salvación]] de [[Fortaleza\|Fortaleza]] contra las [[Enfermedad\|enfermedades]] ==durante 24 horas==; esto se aplica a tu [[Tirada de salvación\|salvación]] diaria contra la progresión de una [[Enfermedad\|enfermedad]].
+>Un [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antiplaga\|antiplaga]] puede fortificar las defensas del cuerpo ==contra las [[50_Compendio/20_Mecánicas/enfermedad\|enfermedades]].== Al beber un [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antiplaga\|antiplaga]], obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las [[Tirada de salvación\|tiradas de salvación]] de [[Fortaleza\|Fortaleza]] contra las [[50_Compendio/20_Mecánicas/enfermedad\|enfermedades]] ==durante 24 horas==; esto se aplica a tu [[Tirada de salvación\|salvación]] diaria contra la progresión de una [[50_Compendio/20_Mecánicas/enfermedad\|enfermedad]].
 
 ---
 
@@ -22,7 +22,7 @@
 |Menor|1|3 po|+2|—|
 |Moderado|6|35 po|+3|—|
 |Mayor|10|160 po|+4|—|
-|Superior|14|675 po|+4|Puede curar una [[Enfermedad\|enfermedad]] activa|
+|Superior|14|675 po|+4|Puede curar una [[50_Compendio/20_Mecánicas/enfermedad\|enfermedad]] activa|
 
 ---
 
@@ -32,4 +32,4 @@
 
 • **Tipo mayor; Nivel 10; Precio 160 po** Obtienes un [[Bonificador por objeto\|bonificador]] +4 por objeto.
 
-• **Tipo superior; Nivel 14; Precio 675 po** Obtienes un [[Bonificador por objeto\|bonificador]] +4 por objeto, y cuando bebes el [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antiplaga\|antiplaga]] puedes hacer de inmediato una [[Tirada de salvación\|tirada de salvación]] contra una [[Enfermedad\|enfermedad]] de nivel 14º o menos que te está afectando. Si tienes éxito, te curas de la [[Enfermedad\|enfermedad]].
+• **Tipo superior; Nivel 14; Precio 675 po** Obtienes un [[Bonificador por objeto\|bonificador]] +4 por objeto, y cuando bebes el [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antiplaga\|antiplaga]] puedes hacer de inmediato una [[Tirada de salvación\|tirada de salvación]] contra una [[50_Compendio/20_Mecánicas/enfermedad\|enfermedad]] de nivel 14º o menos que te está afectando. Si tienes éxito, te curas de la [[50_Compendio/20_Mecánicas/enfermedad\|enfermedad]].

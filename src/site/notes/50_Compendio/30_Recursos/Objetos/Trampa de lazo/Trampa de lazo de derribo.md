@@ -17,8 +17,8 @@ Si quieres crear una [[50_Compendio/30_Recursos/Objetos/Trampa de lazo/Trampa de
 
 - **Éxito crítico** La criatura no resulta afectada. 
 - **Éxito** La criatura queda [[Desprevenido\|desprevenida]] hasta el inicio de su siguiente turno. 
-- **Fallo** La criatura cae [[Tumbado\|tumbada]].
-- **Fallo crítico** La criatura cae [[Tumbado\|tumbada]] y sufre 1d6 [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] contundente.
+- **Fallo** La criatura cae [[50_Compendio/40_Estados/Tumbado\|tumbada]].
+- **Fallo crítico** La criatura cae [[50_Compendio/40_Estados/Tumbado\|tumbada]] y sufre 1d6 [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] contundente.
 
 --------------------------------------------------------------------------------
 

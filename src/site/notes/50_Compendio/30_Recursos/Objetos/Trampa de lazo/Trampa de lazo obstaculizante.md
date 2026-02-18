@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/50-compendio/30-recursos/objetos/trampa-de-lazo/trampa-de-lazo-obstaculizante/"}
 ---
 
-# [[50_Compendio/30_Recursos/Objetos/Trampa de lazo/Trampa de lazo obstaculizante\|Trampa de lazo obstaculizante]]
+# [[50_Compendio/30_Recursos/Objetos/Trampa de lazo/Trampa de lazo obstaculizante\|Trampa de lazo obstaculizante]]  
 
 **TRAMPA DE LAZO OBSTACULIZANTE TRAMPA DE LAZO 1**
 [[Consumible\|Consumible]] [[Mecánico\|Mecánico]] [[Trampa\|Trampa]] [[50_Compendio/30_Recursos/Objetos/Trampa de lazo/Trampa de lazo\|Trampa de lazo]] 

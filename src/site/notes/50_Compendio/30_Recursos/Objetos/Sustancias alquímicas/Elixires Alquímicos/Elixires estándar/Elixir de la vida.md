@@ -11,7 +11,7 @@
 **Activar** `pf2:1` [[Interactuar\|Interactuar]]
 
 >[!recite]+ Informacion. 
->- Los [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Elixir de la vida\|elixires de la vida]] aceleran los procesos de [[Curación\|curación]] natural del cuerpo y el sistema inmune. Al beber este [[Elixir\|elixir]], recuperas el número indicado de [[Puntos de Golpe\|Puntos de Golpe]] y obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las [[Tirada de salvación\|tiradas de salvación]] contra [[Enfermedad\|enfermedades]] y [[Veneno\|venenos]] durante 10 minutos.
+>- Los [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Elixir de la vida\|elixires de la vida]] aceleran los procesos de [[Curación\|curación]] natural del cuerpo y el sistema inmune. Al beber este [[Elixir\|elixir]], recuperas el número indicado de [[Puntos de Golpe\|Puntos de Golpe]] y obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las [[Tirada de salvación\|tiradas de salvación]] contra [[50_Compendio/20_Mecánicas/enfermedad\|enfermedades]] y [[Veneno\|venenos]] durante 10 minutos.
 >- Por lo general [[Interactuar\|Interactúas]] para activar un [[Elixir\|elixir]] cuando lo bebes o se lo suministras a otra criatura. Tan solo puedes suministrar un [[Elixir\|elixir]] a una criatura a tu alcance si es voluntaria o es incapaz de evitar que lo hagas. Por lo general sólo necesitas una mano para consumir un [[Elixir\|elixir]] o suministrárselo a otra criatura.
 
 ---

@@ -19,7 +19,7 @@ espero nos sirva!
 
 ---
 
-> [!abstract] ### Sobre las [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Sustancias alquímicas\|Sustancias alquímicas]]
+> [!abstract]  **Sobre las [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Sustancias alquímicas\|Sustancias alquímicas]]**
 >- [x] [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Bombas Alquímicas/Bombas Alquímicas\|Bombas Alquímicas]] todas incluidas.
 >- [x] [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires Alquímicos\|Elixires Alquímicos]] todos incluidos
 >	- [x] [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Elixires estándar\|Elixires estándar]] todos incluidos

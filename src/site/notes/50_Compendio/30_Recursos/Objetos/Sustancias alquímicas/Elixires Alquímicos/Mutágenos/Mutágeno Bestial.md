@@ -11,7 +11,7 @@
 **Activar** `pf2:1` [[Interactuar\|Interactuar]]
 
 >[!recite]+ Informacion.
->- Tus rasgos se transforman en algo bestial y ganas masa muscular, pero tu pesada forma es [[Torpe\|torpe]].
+>- Tus rasgos se transforman en algo bestial y ganas masa muscular, pero tu pesada forma es [[50_Compendio/40_Estados/torpe\|torpe]].
 >- **Beneficio** Obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las pruebas de [[Atletismo\|Atletismo]] y a las [[Tirada de ataque\|tiradas de ataque]] sin armas. Obtienes un [[Ataque sin armas\|ataque sin armas]] de garra que tiene el [[Ágil\|rasgo ágil]] y un [[Ataque sin armas\|ataque sin armas]] de fauces.
 >- **Inconveniente** Sufres un [[Penalizador\|penalizador]] -1 a la [[CA\|CA]] y un [[Penalizador\|penalizador]] -2 a las [[Salvación\|salvaciones]] de [[Reflejos\|Reflejos]].
 

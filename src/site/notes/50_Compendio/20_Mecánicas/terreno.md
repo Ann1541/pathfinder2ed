@@ -23,7 +23,7 @@ ___
 - Prueba de habilidad: Es tan inestable que puedes caer, debes cumplir prueba de [[Acrobacia\|Acrobacia]] para no caerte.
 	- Mientras estas en terreno desigual **siempre** estas [[desprevenido\|desprevenido]]
 - Caída: Si recibes un ataque o fallas una salvación mientras estas en terreno difícil caerás.
-	- Debes superar una salvación de reflejo o quedaras [[tumbado\|tumbado]]
+	- Debes superar una salvación de reflejo o quedaras [[50_Compendio/40_Estados/Tumbado\|Tumbado]]
 
 ### Otras reglas
 #### Superficies Estrechas
