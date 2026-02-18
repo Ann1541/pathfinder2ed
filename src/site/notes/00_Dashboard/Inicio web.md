@@ -4,7 +4,7 @@
 
 
 ![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
-- [ ] Lo tiene Arya.
+
 
 hola, esta es una idea muy inicial para tener las cositas sistematizadas.
 espero nos sirva!
