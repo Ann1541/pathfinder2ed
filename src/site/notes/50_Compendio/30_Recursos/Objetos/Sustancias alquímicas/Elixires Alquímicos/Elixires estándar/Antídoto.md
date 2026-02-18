@@ -4,6 +4,8 @@
 
 # [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Antídoto\|Antídoto]]
 
+![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
+
 **ANTÍDOTO SUSTANCIA 1 O MÁS** 
 [[Alquímico\|Alquímico]] [[Consumible\|Consumible]] [[Curación\|Curación]] [[Elixir\|Elixir]] 
 **Uso** sostenido en una mano

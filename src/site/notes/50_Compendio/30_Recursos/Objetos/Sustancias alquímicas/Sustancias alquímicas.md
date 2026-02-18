@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/50-compendio/30-recursos/objetos/sustancias-alquimicas/sustancias-alquimicas/"}
 ---
 
+
+![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
+
 # Lista de Elementos Alquímicos
 
 Las **[[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Sustancias alquímicas\|Sustancias alquímicas]]** son objetos consumibles no mágicos que utilizan reactivos químicos y naturales para producir sus efectos. En total, existen 64 tipos básicos de sustancias alquímicas detalladas en el catálogo (página 600).

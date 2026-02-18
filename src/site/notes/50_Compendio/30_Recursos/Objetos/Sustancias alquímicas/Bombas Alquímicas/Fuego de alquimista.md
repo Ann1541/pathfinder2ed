@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/50-compendio/30-recursos/objetos/sustancias-alquimicas/bombas-alquimicas/fuego-de-alquimista/"}
 ---
 
+
+![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
+
 # [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Bombas Alquímicas/Fuego de alquimista\|Fuego de alquimista]]
 
 **FUEGO DE ALQUIMISTA SUSTANCIA 1 O MÁS**

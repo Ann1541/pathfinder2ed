@@ -4,6 +4,8 @@
 
 # [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Elixires Alquímicos/Elixires estándar/Elixir de comprensión\|Elixir de comprensión]]
 
+![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
+
 **ELIXIR DE COMPRENSIÓN SUSTANCIA 2 O MÁS**
 [[Alquímico\|Alquímico]] [[Consumible\|Consumible]] [[Elixir\|Elixir]] [[Mental\|Mental]] 
 **Uso** sostenido en una mano; 
