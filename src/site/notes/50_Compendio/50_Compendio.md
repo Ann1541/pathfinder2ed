@@ -3,7 +3,6 @@
 ---
 
 >[! attention] Sin terminar.
->Aca deberia ir una lista que redirigiera a todas las areas, pero para eso se debe terminar con cada elemento.
-> No se que hacer
-> Eleonor es una adolecente de 15.
+>Aca deberia ir una lista que redirigiera a todas las áreas, pero para eso se debe terminar con cada elemento.
 
+sss

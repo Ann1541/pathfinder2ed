@@ -29,9 +29,9 @@ abilities_mid:
 
 abilities_bot:
   - name: "Aliento ponzoñoso"
-    desc: "⬻ El grauladón sisea y emite una nube nauseabunda de halitosis en un cono de 15 pies (4,5 m). Cada criatura en el interior de dicha área debe superar una tirada de salvación de [[Fortaleza\|Fortaleza]] CD 18 o quedará [[50_Compendio/40_Estados/indispuesta\|indispuesta]] 1 ([[50_Compendio/40_Estados/indispuesta\|indispuesta]] 2 con un fallo crítico). El grauladón no puede volver a usar Aliento reactivo ni Aliento ponzoñoso durante 1d4 asaltos."
+    desc: "⬻ El grauladón sisea y emite una nube nauseabunda de halitosis en un cono de 15 pies (4,5 m). Cada criatura en el interior de dicha área debe superar una tirada de salvación de [[Fortaleza\|Fortaleza]] CD 18 o quedará [[50_Compendio/40_Estados/Indispuesto\|indispuesto]] 1 ([[50_Compendio/40_Estados/Indispuesto\|indispuesto]] 2 con un fallo crítico). El grauladón no puede volver a usar Aliento reactivo ni Aliento ponzoñoso durante 1d4 asaltos."
   - name: "Golpe en el cuerpo"
-    desc: "⬻ __Requisitos__ Que haya más de un enemigo adyacente al grauladón. __Efecto__ El grauladón lanza su cola contra cada enemigo adyacente e intenta [[50_Compendio/Acciones/Derribar\|Derribar]] a cada criatura adyacente a éste. Tira una sola prueba de __Atletismo__ y compara el resultado con la CD de [[Fortaleza\|Fortaleza]] de cada objetivo."
+    desc: "⬻ __Requisitos__ Que haya más de un enemigo adyacente al grauladón. __Efecto__ El grauladón lanza su cola contra cada enemigo adyacente e intenta [[50_Compendio/80_Acciones/Derribar\|Derribar]] a cada criatura adyacente a éste. Tira una sola prueba de __Atletismo__ y compara el resultado con la CD de [[Fortaleza\|Fortaleza]] de cada objetivo."
 
 speed: 20 pies (6 m), nadar 30 pies (9 m)
 
