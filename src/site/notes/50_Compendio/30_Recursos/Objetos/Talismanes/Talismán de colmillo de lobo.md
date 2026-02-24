@@ -10,10 +10,10 @@
 **Uso** fijado a una armadura; 
 **Impedimenta** — 
 **Activar** `pf2:0` visualizar; 
-**Desencadenante** [[50_Compendio/80_Acciones/Derribar\|Derribas]] con éxito a un enemigo; 
+**Desencadenante** [[Derribar\|Derribas]] con éxito a un enemigo; 
 **Requisitos** Estás [[Entrenado\|entrenado]] en [[Atletismo\|Atletismo]].
 
 >[!recite]+ Informacion. 
 >Este canino de lobo está atado a una tira de cuero y fijado a un broche o correa de una [[Armadura\|armadura]].
->- Cuando activas el [[Colmillo de lobo\|colmillo]], infliges tanto [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] contundente como tu modificador por [[Fuerza\|Fuerza]] al objetivo de tu [[50_Compendio/80_Acciones/Derribar\|Derribo]]. 
->- Si tu [[50_Compendio/80_Acciones/Derribar\|Derribo]] ya inflige un [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] físico que no incluye un modificador por característica, suma a dicho [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] tu modificador por [[Fuerza\|Fuerza]].
+>- Cuando activas el [[Colmillo de lobo\|colmillo]], infliges tanto [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] contundente como tu modificador por [[Fuerza\|Fuerza]] al objetivo de tu [[Derribar\|Derribo]]. 
+>- Si tu [[Derribar\|Derribo]] ya inflige un [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] físico que no incluye un modificador por característica, suma a dicho [[50_Compendio/20_Mecánicas/Daño/Daño\|daño]] tu modificador por [[Fuerza\|Fuerza]].

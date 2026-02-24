@@ -13,7 +13,7 @@
 **Activar** `pf2:1` [[Interactuar\|Interactuar]]
 
 >[!recite]+ Informacion. 
->Este amargo brebaje abre tu mente al potencial de la palabra escrita. Durante la duración indicada después de beber este [[Elixir\|elixir]] puedes entender cualquier palabra que lees, si está escrita en un [[Idioma\|idioma]] común. El [[Elixir\|elixir]] no te permite automáticamente entender códigos o pasajes extremadamente esotéricos; sigues necesitando para ello una prueba de [[Habilidad\|habilidad]] para [[Descifrar escritura\|Descifrar escritura]].
+>Este amargo brebaje abre tu mente al potencial de la palabra escrita. Durante la duración indicada después de beber este [[Elixir\|elixir]] puedes entender cualquier palabra que lees, si está escrita en un [[Idioma\|idioma]] común. El [[Elixir\|elixir]] no te permite automáticamente entender códigos o pasajes extremadamente esotéricos; sigues necesitando para ello una prueba de [[Habilidad\|habilidad]] para [[50_Compendio/80_Acciones/Acciones de Habilidad generales/Descifrar escritura\|Descifrar escritura]].
 
 --------------------------------------------------------------------------------
 

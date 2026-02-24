@@ -12,7 +12,7 @@
 
 >[!recite]+ Informacion.
 > Tu mente se aclara y la cognición fluye libremente, pero los asuntos físicos te parecen efímeros.
-> - **Beneficio** Obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las pruebas de [[Arcanos\|Arcanos]], [[Artesanía\|Artesanía]], [[Ocultismo\|Ocultismo]], [[Saber\|Saber]] y [[Sociedad\|Sociedad]] y a todas las pruebas de [[Recordar conocimiento\|Recordar conocimiento]]. Tus [[Fallo Crítico\|fallos críticos]] en las pruebas de [[Recordar conocimiento\|Recordar conocimiento]] se convierten en su lugar en [[Fallo\|fallos]].
+> - **Beneficio** Obtienes un [[Bonificador por objeto\|bonificador por objeto]] a las pruebas de [[Arcanos\|Arcanos]], [[Artesanía\|Artesanía]], [[Ocultismo\|Ocultismo]], [[Saber\|Saber]] y [[Sociedad\|Sociedad]] y a todas las pruebas de [[50_Compendio/80_Acciones/Acciones de Habilidad generales/Recordar conocimiento\|Recordar conocimiento]]. Tus [[Fallo Crítico\|fallos críticos]] en las pruebas de [[50_Compendio/80_Acciones/Acciones de Habilidad generales/Recordar conocimiento\|Recordar conocimiento]] se convierten en su lugar en [[Fallo\|fallos]].
 > - **Inconveniente** Sufres un [[Penalizador\|penalizador]] -2 a las [[Tirada de ataque\|tiradas de ataque]] con [[Armas\|armas]] y [[Ataque sin armas\|sin armas]], las pruebas de [[Atletismo\|Atletismo]] y las de [[Acrobacias\|Acrobacias]]. Puedes llevar 2 menos de [[Impedimenta\|Impedimenta]] que lo habitual antes de quedar [[Impedido\|impedido]] y la [[Impedimenta\|Impedimenta]] máxima con la que puedes cargar se ve reducida en 4.
 
 --------------------------------------------------------------------------------
