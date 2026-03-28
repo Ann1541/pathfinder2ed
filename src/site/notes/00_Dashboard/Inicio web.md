@@ -6,16 +6,20 @@
 ![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
 
 
+>[! warning]-  # [[00_Dashboard/Arya Spiderweb\|Arya Spiderweb]] 
+>- Tienes tantos reactivos alquímicos como tu nivel+bono de inteligencia (2+4).
+>- Pulsa en tu nombre para ver que puedes crear.
+
+>[! attention]-  # [[00_Dashboard/Luma\|Luma]]
+>Apreta en tu nombre para ver tus acciones disponibles
+
+>- En los tiempos de preparativos puedes crear por cada reactivo dos elementos alquímicos iguales (como dos [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Bombas Alquímicas/Frasco de ácido\|Frasco de ácido]])
+
+
 hola, esta es una idea muy inicial para tener las cositas sistematizadas.
 espero nos sirva!
 
->[! warning]- Futura ruta.
-> - Creo que lo mas importante ahora seria hacer una lista de todas las acciones que pueden hacer y que estadistica aplica a cada una.
-> - Luego una lista de estados y condiciones.
-> - luego armas , armaduras y mecanismos
-> - Bestiario
-> 
-> El avance no será lineal, iré poco a poco sumando según necesitemos en campaña, por eso ya coloque todas las [[50_Compendio/30_Recursos/Objetos/Trampa de lazo/Trampa de lazo\|Trampa de lazo]] 
+
 
 ---
 
