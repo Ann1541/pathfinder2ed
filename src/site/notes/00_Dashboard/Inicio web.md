@@ -6,18 +6,13 @@
 ![Banner Pathfinder 4K.png|banner](/img/user/99_Sistema/Imagen/PNG/Banner%20Pathfinder%204K.png)
 
 
->[! warning]-  # [[00_Dashboard/Arya Spiderweb\|Arya Spiderweb]] 
+>[! warning]-   [[00_Dashboard/Arya Spiderweb\|Arya Spiderweb]] 
 >- Tienes tantos reactivos alquímicos como tu nivel+bono de inteligencia (2+4).
+>- En los tiempos de preparativos puedes crear por cada reactivo dos elementos alquímicos iguales (como dos [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Bombas Alquímicas/Frasco de ácido\|Frasco de ácido]])
 >- Pulsa en tu nombre para ver que puedes crear.
 
->[! attention]-  # [[00_Dashboard/Luma\|Luma]]
+>[! attention]-   [[00_Dashboard/Luma\|Luma]]
 >Apreta en tu nombre para ver tus acciones disponibles
-
->- En los tiempos de preparativos puedes crear por cada reactivo dos elementos alquímicos iguales (como dos [[50_Compendio/30_Recursos/Objetos/Sustancias alquímicas/Bombas Alquímicas/Frasco de ácido\|Frasco de ácido]])
-
-
-hola, esta es una idea muy inicial para tener las cositas sistematizadas.
-espero nos sirva!
 
 
 
